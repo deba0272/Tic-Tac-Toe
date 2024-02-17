@@ -21,6 +21,5 @@ Technologies
 
 Let's Connect
 
-LinkedIn: Debajyoti Roy
-Twitter: @debajyoti_roy
-Email: your.email@example.com
+LinkedIn: https://www.linkedin.com/in/debajyoti-roy-a1a7bb230/
+Email: deba9862@gmail.com
